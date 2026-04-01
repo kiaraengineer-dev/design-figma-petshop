@@ -19,7 +19,7 @@ Criar um design atrativo e funcional que transmita confiança, cuidado e profiss
 
 ## 📸 Preview
 
-![Preview do projeto](./preview.png)
+![Preview do projeto](./PetShop.png)
 
 ## 🔗 Acesse o Design
 
